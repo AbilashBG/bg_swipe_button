@@ -1,0 +1,21 @@
+name: bg_swipe_button
+description: "A customizable swipe-to-complete button widget for Flutter that supports dynamic text, icon, gradient backgrounds, and customizable swipe actions."
+version: 0.0.1
+homepage: https://github.com/AbilashBG/bg_swipe_button.git
+
+environment:
+  sdk: ^3.6.1
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # The package itself
+bg_swipe_button: ^0.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
