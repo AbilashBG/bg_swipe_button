@@ -1,6 +1,6 @@
 # Changelog
 
-## [0.0.2] - 2025-05-10
+## [0.0.3] - 2025-05-10
 ### Initial release
 - First stable release of `BGSwipeButton`.
 - Implemented customizable swipe button with the following features:
